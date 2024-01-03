@@ -1,4 +1,7 @@
 <h1 align="center"> Direct sales from farmers to consumers </h1> 
+<p align="center">
+        <img src="https://github.com/swetha2411/Farm2Fork/edit/main/public/images/apple.jpg" width="800" height="500" >
+</p>
 
 <h2>Introduction</h2>
 <p>The major issues for farmers is obtaining a fair and stable income for their  agricultural products.Building a better world through sustainable businesses, fair labor, and poverty reduction. Responsible production cultivates resilient supply chains, vital for steady access to essentials during crises.Direct sales of fresh, local produce foster healthier diets and improved well-being for consumers. Direct sales build community bonds, connecting consumers with local farmers for mutual support and engagement</p>
