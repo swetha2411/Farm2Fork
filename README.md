@@ -1,6 +1,6 @@
 <h1 align="center"> Direct sales from farmers to consumers </h1> 
 <p align="center">
-        <img src="https://github.com/swetha2411/Farm2Fork/edit/main/public/images/apple.jpg" width="800" height="500" >
+        <img src="https://github.com/swetha2411/Farm2Fork/edit/main/public/images/apple2.jpg" width="800" height="500" >
 </p>
 
 <h2>Introduction</h2>
